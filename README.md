@@ -168,6 +168,8 @@ p.note { display: none; }
 
 <h2><span class="yellow">25,Oct,2025 国道を東進してラオスとの国境の街に向かいます</span></h2>
 <a href="20251026_001.JPG" target="_blank"><img src="20251026_001.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">陽射しが強くて道路の痛みが早いみたいで、道路工事はかなり頻繁</span></h2>
 <a href="20251026_002.JPG" target="_blank"><img src="20251026_002.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251026_003.JPG" target="_blank"><img src="20251026_003.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251026_004.JPG" target="_blank"><img src="20251026_004.JPG" alt="サンプル画像" class="responsive-media"></a>
