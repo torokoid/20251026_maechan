@@ -269,12 +269,12 @@ p.note { display: none; }
 <a href="20251026_052.JPG" target="_blank"><img src="20251026_052.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251026_053.JPG" target="_blank"><img src="20251026_053.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">皮魚を獲る船</span></h2>
+<h2><span class="yellow">川魚を獲る船</span></h2>
 <a href="20251026_054.JPG" target="_blank"><img src="20251026_054.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251026_055.JPG" target="_blank"><img src="20251026_055.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251026_056.JPG" target="_blank"><img src="20251026_056.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">25日の晩御飯は、宿の前の屋台</span></h2>
+<h2><span class="yellow">25日の晩御飯は、宿の前の屋台は深夜まで営業</span></h2>
 <a href="20251026_057.JPG" target="_blank"><img src="20251026_057.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251026_058.JPG" target="_blank"><img src="20251026_058.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251026_059.JPG" target="_blank"><img src="20251026_059.JPG" alt="サンプル画像" class="responsive-media"></a>
