@@ -277,6 +277,10 @@ p.note { display: none; }
 <h2><span class="yellow">25日の晩御飯は、宿の前の屋台は深夜まで営業</span></h2>
 <a href="20251026_057.JPG" target="_blank"><img src="20251026_057.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251026_058.JPG" target="_blank"><img src="20251026_058.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251026_114.JPG" target="_blank"><img src="20251026_114.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251026_115.JPG" target="_blank"><img src="20251026_115.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251026_116.JPG" target="_blank"><img src="20251026_116.JPG" alt="サンプル画像" class="responsive-media"></a>
+
 <a href="20251026_059.JPG" target="_blank"><img src="20251026_059.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">サトウキビを絞ったジュースが美味しかったです</span></h2>
